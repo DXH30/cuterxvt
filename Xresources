@@ -1,0 +1,39 @@
+! special
+*.foreground:   #ade5dc
+*.background:   #030606
+*.cursorColor:  #ade5dc
+
+! black
+*.color0:       #070c0b
+*.color8:       #e7acb9
+
+! red
+*.color1:       #101917
+*.color9:       #efd0a5
+
+! green
+*.color2:       #1e2b29
+*.color10:      #7dd9cb
+
+! yellow
+*.color3:       #314441
+*.color11:      #efc4cd
+
+! blue
+*.color4:       #4a6560
+*.color12:      #e4d1eb
+
+! magenta
+*.color5:       #698c86
+*.color13:      #d7bee0
+
+! cyan
+*.color6:       #8cbab2
+*.color14:      #87adcc
+
+! white
+*.color7:       #b4eee4
+*.color15:      #c8a365
+
+!!Tema untuk urxvt
+URxvt.scrollBar: false

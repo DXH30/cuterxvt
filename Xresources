@@ -37,3 +37,10 @@
 
 !!Tema untuk urxvt
 URxvt.scrollBar: false
+
+!!Transparency (fake)
+!urxvt*transparent: true
+!urxvt*shading: 30
+!!Transparency (real)
+urxvt*depth: 32
+urxvt*background: rgba:0000/0000/0200/c800
